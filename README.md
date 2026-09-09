@@ -1,59 +1,229 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akash S M
-=================================================================================================================================
+# 👋 Hi, I'm Akash S M
 
-Full Stack Web Developer ( MERN STACK )
----------------------------------------
+### Full-Stack Engineer · SaaS Builder · Cloud & DevOps Learner
 
-👋 Hello there! I'm AKASH S M, a dedicated Full-Stack Web Developer and Freelancer with a passion for crafting exceptional digital experiences. With years of hands-on experience, I specialize in developing robust and scalable web applications that drive results. 💼 I've honed my skills across a diverse spectrum of technologies and frameworks. From front-end to back-end development, I thrive on turning innovative ideas into functional and user-friendly solutions. 🚀 Let's connect and explore how we can create something extraordinary together. Feel free to reach out—I'm always eager to embark on exciting new projects and opportunities!
+I build real-world web applications and SaaS products with **Next.js, React, Node.js, and MongoDB**.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Crio - Portfolio](http://www.crio.do/learn/portfolio/mail2meak22frcrio/)
-* ✉️  You can contact me at [akashvicky2012@gmail.com](mailto:akashvicky2012@gmail.com)
-* 🧠  I'm learning Next.js , FireBase , AWS
-* 🤝  I'm open to collaborating on Frontend Projects
+I'm currently expanding from application development into **AWS, cloud architecture, DevOps, CI/CD, containers, infrastructure, and system design**.
 
-<a href="https://www.github.com/ak220193" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ak220193?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+> **Build it. Understand it. Deploy it. Improve it.**
 
-### Skills
+---
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/76x76.png" width="36" height="36" alt="Vercel" />
-</a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+## 🧑‍💻 About Me
+
+- 🏗️ Building production-oriented web applications and SaaS products
+- 🚀 Founder of **Webxode Technologies**
+- 🌐 Based in India
+- ☁️ Currently focused on **AWS & Cloud Engineering**
+- ⚙️ Learning **Docker, CI/CD, Terraform, Kubernetes & cloud infrastructure**
+- 🧠 Interested in **system design, scalable architecture, security and observability**
+- 🤝 Open to interesting technical collaborations and product opportunities
+
+---
+
+## 🚀 What I Build
+
+### SaaS & Web Applications
+
+- Multi-tenant SaaS platforms
+- E-commerce applications
+- Business management systems
+- Content management systems
+- REST APIs and backend services
+- Authentication & RBAC
+- Subscription and payment workflows
+- Real-time applications
+
+### Cloud & DevOps
+
+I'm working toward owning the **complete application lifecycle**:
+
+```text
+Idea
+  ↓
+Architecture
+  ↓
+Development
+  ↓
+Testing
+  ↓
+Containerization
+  ↓
+CI/CD
+  ↓
+Cloud Deployment
+  ↓
+Monitoring
+  ↓
+Optimization
+```
+
+---
+
+## ⭐ Featured Projects
+
+### 🔷 [Texora — Blog Management SaaS](https://github.com/ak220193/blog_management)
+
+A multi-tenant content and blog management platform built as a serious engineering project rather than a tutorial application.
+
+**Engineering focus:**
+- Multi-tenancy & RBAC
+- Authentication & authorization
+- Rich-text content editing
+- Media management
+- Redis caching
+- Background jobs with BullMQ
+- Real-time communication with Socket.IO
+- Subscription/payment workflows
+- Error monitoring with Sentry
+- Code quality & Git hooks
+
+**Stack:** Next.js · React · MongoDB · Mongoose · Redis · Socket.IO · BullMQ · Docker
+
+---
+
+### 🧾 [Invonext](https://github.com/ak220193/Invonext)
+
+An invoice management application focused on practical business workflows and a modern web experience.
+
+**Focus areas:**
+- Invoice generation
+- PDF generation
+- Data visualization
+- Business data management
+- Cloud media handling
+- Responsive application UI
+
+**Stack:** Next.js · React · MongoDB · Cloudinary · Chart.js
+
+---
+
+### 🏪 Nearby Clothing
+
+A hyperlocal clothing-business discovery concept designed to connect customers with local apparel stores.
+
+**Focus areas:**
+- Vendor management
+- Store profiles
+- Offers and product discovery
+- Vendor subscriptions
+- Admin management
+- Customer engagement workflows
+
+**Stack:** Next.js · MongoDB · Zustand · TanStack Query
+
+---
+
+## ☁️ Current Learning Path
+
+```text
+AWS Cloud Fundamentals
+        ↓
+AWS Cloud Architecture
+        ↓
+Networking & Infrastructure
+        ↓
+Docker & Containers
+        ↓
+CI/CD with GitHub Actions
+        ↓
+Infrastructure as Code with Terraform
+        ↓
+Kubernetes
+        ↓
+Cloud & DevOps Engineering
+```
+
+Alongside cloud technologies, I'm strengthening:
+
+- Linux & networking
+- System design
+- Database architecture
+- Application security
+- Testing & automation
+- Monitoring & observability
+- Performance optimization
+
+---
+
+## 🛠️ Tech Stack
+
+### Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb" />
 </p>
 
+### Cloud & DevOps
 
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,terraform,kubernetes,linux" />
+</p>
 
+### Tools
 
-### Socials
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/ak220193" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in//akash-s-m/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@vicky.ajcky.3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 🧠 Engineering Philosophy
 
-<b>My GitHub Stats</b>
+I don't want to simply collect technologies.
 
-<a href="http://www.github.com/ak220193"><img src="https://github-readme-stats.vercel.app/api?username=ak220193&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ak220193's GitHub stats" /></a>
+I want to understand **why a technology exists, what problem it solves, what trade-offs it introduces, and how it behaves in a real system**.
 
-<a href="http://www.github.com/ak220193"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ak220193&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+That's why my current learning approach is project-driven:
 
-<a href="http://www.github.com/ak220193"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ak220193&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+```text
+Learn → Build → Break → Debug → Deploy → Monitor → Improve
+```
 
-<a href="https://github.com/ak220193" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak220193&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🎯 2026–2027 Goals
+
+- [ ] Complete AWS Cloud Practitioner
+- [ ] Build strong AWS architecture fundamentals
+- [ ] Build production-style cloud projects
+- [ ] Become confident with Docker & containers
+- [ ] Build reliable CI/CD pipelines
+- [ ] Learn Terraform and Infrastructure as Code
+- [ ] Learn Kubernetes
+- [ ] Strengthen system design skills
+- [ ] Deploy and operate scalable SaaS applications
+- [ ] Expand Webxode's cloud & DevOps capabilities
+
+---
+
+## 💼 Webxode Technologies
+
+I'm also building **Webxode Technologies**, a software development company focused on digital products, custom software and modern web solutions.
+
+**Design. Develop. Deliver.**
+
+---
+
+## 📊 GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ak220193&show_icons=true&hide_border=true&theme=transparent" alt="Akash's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak220193&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p>
+  <a href="https://github.com/ak220193">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/akash-s-m/">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Keep building. Keep learning. Keep shipping. 🚀</i>
+</p>
