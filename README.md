@@ -1,153 +1,106 @@
-# 👋 Hi, I'm Akash S M
+<h1 align="center">Hi, I'm Akash S M 👋</h1>
 
-### Full-Stack Engineer · SaaS Builder · Cloud & DevOps Learner
+<p align="center">
+  <strong>Full-Stack Developer · SaaS Builder · Founder @ Webxode Technologies</strong>
+</p>
 
-I build real-world web applications and SaaS products with **Next.js, React, Node.js, and MongoDB**.
+<p align="center">
+  I build modern web applications, business platforms and SaaS products — and I'm expanding into AWS, cloud architecture and DevOps.
+</p>
 
-I'm currently expanding from application development into **AWS, cloud architecture, DevOps, CI/CD, containers, infrastructure, and system design**.
+<p align="center">
+  <a href="https://github.com/ak220193">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/akashsm-dev/">LinkedIn</a> ·
+  <a href="https://www.webxode.com/">Webxode</a>
+</p>
+
+---
+
+## 🚀 What I Do
+
+I'm a full-stack developer focused on building applications that go beyond the UI.
+
+My work sits across the complete product lifecycle:
+
+```text
+Idea → Architecture → Development → Testing → Deployment → Monitoring → Improvement
+```
+
+I currently build with the JavaScript/TypeScript ecosystem and am actively strengthening my knowledge of cloud infrastructure and production engineering.
+
+- 🏗️ Building SaaS products and real-world web applications
+- 🚀 Founder of **Webxode Technologies**
+- ⚛️ Working primarily with **React, Next.js, Node.js and MongoDB**
+- ☁️ Currently focused on **AWS and cloud architecture**
+- 🐳 Building toward stronger skills in **Docker, CI/CD and DevOps**
+- 🧠 Interested in **system design, scalable architecture and application performance**
 
 > **Build it. Understand it. Deploy it. Improve it.**
 
 ---
 
-## 🧑‍💻 About Me
+## ⭐ Featured Work
 
-- 🏗️ Building production-oriented web applications and SaaS products
-- 🚀 Founder of **Webxode Technologies**
-- 🌐 Based in India
-- ☁️ Currently focused on **AWS & Cloud Engineering**
-- ⚙️ Learning **Docker, CI/CD, Terraform, Kubernetes & cloud infrastructure**
-- 🧠 Interested in **system design, scalable architecture, security and observability**
-- 🤝 Open to interesting technical collaborations and product opportunities
+### 🔷 Texora — Multi-Tenant Content Platform
 
----
+A production-oriented SaaS project exploring the engineering challenges behind a modern content and community platform.
 
-## 🚀 What I Build
+**Engineering focus**
 
-### SaaS & Web Applications
-
-- Multi-tenant SaaS platforms
-- E-commerce applications
-- Business management systems
-- Content management systems
-- REST APIs and backend services
-- Authentication & RBAC
-- Subscription and payment workflows
-- Real-time applications
-
-### Cloud & DevOps
-
-I'm working toward owning the **complete application lifecycle**:
-
-```text
-Idea
-  ↓
-Architecture
-  ↓
-Development
-  ↓
-Testing
-  ↓
-Containerization
-  ↓
-CI/CD
-  ↓
-Cloud Deployment
-  ↓
-Monitoring
-  ↓
-Optimization
-```
-
----
-
-## ⭐ Featured Projects
-
-### 🔷 [Texora — Blog Management SaaS](https://github.com/ak220193/blog_management)
-
-A multi-tenant content and blog management platform built as a serious engineering project rather than a tutorial application.
-
-**Engineering focus:**
-- Multi-tenancy & RBAC
-- Authentication & authorization
+- Multi-tenant architecture
+- Authentication and RBAC
 - Rich-text content editing
 - Media management
 - Redis caching
 - Background jobs with BullMQ
-- Real-time communication with Socket.IO
-- Subscription/payment workflows
+- Real-time features with Socket.IO
+- Subscription and payment workflows
 - Error monitoring with Sentry
-- Code quality & Git hooks
+- Docker and deployment workflows
 
-**Stack:** Next.js · React · MongoDB · Mongoose · Redis · Socket.IO · BullMQ · Docker
+**Stack:** Next.js · React · TypeScript · MongoDB · Redis · BullMQ · Socket.IO · Docker
+
+🔗 **Repository:** [View Texora](https://github.com/ak220193/blog_management)
 
 ---
 
-### 🧾 [Invonext](https://github.com/ak220193/Invonext)
+### 🧾 InvoNext — Invoice Management Application
 
-An invoice management application focused on practical business workflows and a modern web experience.
+A business-focused application designed around practical invoicing and data workflows.
 
-**Focus areas:**
+**Focus areas**
+
 - Invoice generation
 - PDF generation
-- Data visualization
 - Business data management
+- Data visualization
 - Cloud media handling
 - Responsive application UI
 
 **Stack:** Next.js · React · MongoDB · Cloudinary · Chart.js
 
+🔗 **Repository:** [View InvoNext](https://github.com/ak220193/Invonext)
+
 ---
 
-### 🏪 Nearby Clothing
+### 🏪 Nearbuy Clothing — Hyperlocal SaaS Concept
 
-A hyperlocal clothing-business discovery concept designed to connect customers with local apparel stores.
+A platform concept designed to help customers discover local clothing businesses while giving vendors tools to manage their digital presence.
 
-**Focus areas:**
-- Vendor management
-- Store profiles
-- Offers and product discovery
-- Vendor subscriptions
+**Focus areas**
+
+- Vendor and store management
+- Product and offer discovery
+- Role-based workflows
+- Subscription concepts
 - Admin management
-- Customer engagement workflows
+- Customer engagement
 
 **Stack:** Next.js · MongoDB · Zustand · TanStack Query
 
 ---
 
-## ☁️ Current Learning Path
-
-```text
-AWS Cloud Fundamentals
-        ↓
-AWS Cloud Architecture
-        ↓
-Networking & Infrastructure
-        ↓
-Docker & Containers
-        ↓
-CI/CD with GitHub Actions
-        ↓
-Infrastructure as Code with Terraform
-        ↓
-Kubernetes
-        ↓
-Cloud & DevOps Engineering
-```
-
-Alongside cloud technologies, I'm strengthening:
-
-- Linux & networking
-- System design
-- Database architecture
-- Application security
-- Testing & automation
-- Monitoring & observability
-- Performance optimization
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 ### Application Development
 
@@ -155,75 +108,121 @@ Alongside cloud technologies, I'm strengthening:
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb" />
 </p>
 
-### Cloud & DevOps
+### Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,terraform,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 </p>
 
-### Tools
+### Cloud & Engineering Journey
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux,git,github" />
 </p>
 
 ---
 
-## 🧠 Engineering Philosophy
+## ☁️ Current Growth Path
 
-I don't want to simply collect technologies.
-
-I want to understand **why a technology exists, what problem it solves, what trade-offs it introduces, and how it behaves in a real system**.
-
-That's why my current learning approach is project-driven:
+I'm deliberately moving from being only an application developer toward understanding how software runs in production.
 
 ```text
-Learn → Build → Break → Debug → Deploy → Monitor → Improve
+Full-Stack Engineering
+        ↓
+AWS Cloud Fundamentals
+        ↓
+Cloud Architecture
+        ↓
+Linux & Networking
+        ↓
+Docker & Containers
+        ↓
+CI/CD Automation
+        ↓
+Infrastructure & Deployment
+        ↓
+DevOps & System Reliability
 ```
+
+My goal is not to collect certificates or technology logos.
+
+I want to understand:
+
+- Why a technology exists
+- What problem it solves
+- Its trade-offs and limitations
+- Where it fits in a real architecture
+- How to operate and debug it in production
 
 ---
 
-## 🎯 2026–2027 Goals
+## 🧠 How I Learn
 
+I learn best by building.
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Deploy
+  ↓
+Monitor
+  ↓
+Improve
+```
+
+A finished tutorial is not the same thing as engineering experience.
+
+My current focus is on building projects that force me to understand architecture, deployment, failure handling and real-world trade-offs.
+
+---
+
+## 🎯 Current Focus
+
+- [x] Build a multi-tenant SaaS project
+- [x] Strengthen modern Next.js and full-stack development
+- [x] Complete hands-on Docker fundamentals
 - [ ] Complete AWS Cloud Practitioner
-- [ ] Build strong AWS architecture fundamentals
-- [ ] Build production-style cloud projects
-- [ ] Become confident with Docker & containers
-- [ ] Build reliable CI/CD pipelines
-- [ ] Learn Terraform and Infrastructure as Code
-- [ ] Learn Kubernetes
+- [ ] Deepen AWS architecture knowledge
+- [ ] Build a production-style AWS project
+- [ ] Build stronger CI/CD workflows
+- [ ] Improve Linux and networking fundamentals
 - [ ] Strengthen system design skills
-- [ ] Deploy and operate scalable SaaS applications
-- [ ] Expand Webxode's cloud & DevOps capabilities
+- [ ] Operate applications with monitoring and observability
 
 ---
 
 ## 💼 Webxode Technologies
 
-I'm also building **Webxode Technologies**, a software development company focused on digital products, custom software and modern web solutions.
+I'm the founder of **Webxode Technologies**, where I work on modern websites, custom web applications, e-commerce platforms and digital products.
 
-**Design. Develop. Deliver.**
+The long-term direction is simple:
 
----
-
-## 📊 GitHub
+**Build great software for clients. Build our own products. Grow into stronger cloud and engineering capabilities.**
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ak220193&show_icons=true&hide_border=true&theme=transparent" alt="Akash's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak220193&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <strong>Design. Develop. Deliver.</strong>
 </p>
 
+🌐 [www.webxode.com](https://www.webxode.com/)
+
 ---
 
-## 🤝 Connect
+## 📊 GitHub Activity
 
-<p>
-  <a href="https://github.com/ak220193">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/akash-s-m/">LinkedIn</a>
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ak220193&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Akash's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ak220193&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Keep building. Keep learning. Keep shipping. 🚀</i>
+  <i>Building software is easy to start. Building it well is the interesting part.</i>
 </p>
