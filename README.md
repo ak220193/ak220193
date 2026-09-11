@@ -1,228 +1,273 @@
-<h1 align="center">Hi, I'm Akash S M 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Developer · SaaS Builder · Founder @ Webxode Technologies</strong>
-</p>
+# 👋 Hey, I'm Akash S M
 
-<p align="center">
-  I build modern web applications, business platforms and SaaS products — and I'm expanding into AWS, cloud architecture and DevOps.
-</p>
+### Full-Stack Developer • SaaS Builder • Founder @ Webxode Technologies
 
-<p align="center">
-  <a href="https://github.com/ak220193">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/akashsm-dev/">LinkedIn</a> ·
-  <a href="https://www.webxode.com/">Webxode</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Creating+SaaS+products+from+scratch;Exploring+AWS%2C+Cloud+%26+DevOps;Build.+Learn.+Ship.+Repeat." alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/ak220193">
+  <img src="https://img.shields.io/github/followers/ak220193?label=Followers&style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/akashsm-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://www.webxode.com/">
+  <img src="https://img.shields.io/badge/Webxode-Visit%20Website-black?style=for-the-badge&logo=googlechrome" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ak220193&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-I'm a full-stack developer focused on building applications that go beyond the UI.
+I build applications that go beyond the UI — from product ideas and architecture to development, deployment and improvement.
 
-My work sits across the complete product lifecycle:
+<div align="center">
 
 ```text
-Idea → Architecture → Development → Testing → Deployment → Monitoring → Improvement
+💡 Idea → 🏗️ Architecture → 💻 Development → 🧪 Testing
+        → 🚀 Deployment → 📊 Monitoring → 🔁 Improvement
 ```
 
-I currently build with the JavaScript/TypeScript ecosystem and am actively strengthening my knowledge of cloud infrastructure and production engineering.
+</div>
 
-- 🏗️ Building SaaS products and real-world web applications
+- 🏗️ Building **SaaS products and real-world web applications**
 - 🚀 Founder of **Webxode Technologies**
-- ⚛️ Working primarily with **React, Next.js, Node.js and MongoDB**
-- ☁️ Currently focused on **AWS and cloud architecture**
-- 🐳 Building toward stronger skills in **Docker, CI/CD and DevOps**
-- 🧠 Interested in **system design, scalable architecture and application performance**
+- ⚛️ Working with **React, Next.js, Node.js and MongoDB**
+- ☁️ Currently diving deeper into **AWS & Cloud Architecture**
+- 🐳 Strengthening **Docker, CI/CD and DevOps** knowledge
+- 🧠 Interested in **System Design, Scalable Architecture & Performance**
 
 > **Build it. Understand it. Deploy it. Improve it.**
 
 ---
 
-## ⭐ Featured Work
+## 🛠️ My Tech Arsenal
 
-### 🔷 Texora — Multi-Tenant Content Platform
+<div align="center">
 
-A production-oriented SaaS project exploring the engineering challenges behind a modern content and community platform.
+### Frontend
 
-**Engineering focus**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
 
-- Multi-tenant architecture
-- Authentication and RBAC
-- Rich-text content editing
-- Media management
-- Redis caching
-- Background jobs with BullMQ
-- Real-time features with Socket.IO
-- Subscription and payment workflows
-- Error monitoring with Sentry
-- Docker and deployment workflows
+### Backend & Database
 
-**Stack:** Next.js · React · TypeScript · MongoDB · Redis · BullMQ · Socket.IO · Docker
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&perline=4" />
 
-🔗 **Repository:** [View Texora](https://github.com/ak220193/blog_management)
+### Cloud & DevOps Journey
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux,git,github&perline=7" />
+
+</div>
 
 ---
 
-### 🧾 InvoNext — Invoice Management Application
+## ⭐ Featured Projects
 
-A business-focused application designed around practical invoicing and data workflows.
+<table>
+<tr>
+<td width="50%">
 
-**Focus areas**
+### 🔷 Texora
 
-- Invoice generation
-- PDF generation
-- Business data management
-- Data visualization
-- Cloud media handling
-- Responsive application UI
+**Multi-Tenant Content Platform**
+
+A production-oriented SaaS project built to explore real engineering problems instead of simply following a tutorial.
+
+**Highlights**
+
+- 🏢 Multi-tenancy
+- 🔐 Authentication & RBAC
+- ✍️ Rich-text editing
+- ⚡ Redis caching
+- 🧵 BullMQ background jobs
+- 🔴 Real-time features
+- 💳 Subscription workflows
+- 🐳 Docker
+
+**Stack:** Next.js · TypeScript · MongoDB · Redis · BullMQ · Socket.IO
+
+🔗 [Explore Repository →](https://github.com/ak220193/blog_management)
+
+</td>
+<td width="50%">
+
+### 🧾 InvoNext
+
+**Invoice Management Application**
+
+A business-focused application built around practical invoicing and data workflows.
+
+**Highlights**
+
+- 📄 Invoice generation
+- 🖨️ PDF generation
+- 📊 Data visualization
+- 🗂️ Business data management
+- ☁️ Cloud media handling
+- 📱 Responsive UI
 
 **Stack:** Next.js · React · MongoDB · Cloudinary · Chart.js
 
-🔗 **Repository:** [View InvoNext](https://github.com/ak220193/Invonext)
+🔗 [Explore Repository →](https://github.com/ak220193/Invonext)
 
----
+</td>
+</tr>
+</table>
 
-### 🏪 Nearbuy Clothing — Hyperlocal SaaS Concept
+### 🏪 Nearbuy Clothing
 
-A platform concept designed to help customers discover local clothing businesses while giving vendors tools to manage their digital presence.
+A **hyperlocal SaaS concept** connecting customers with nearby clothing businesses.
 
-**Focus areas**
-
-- Vendor and store management
-- Product and offer discovery
-- Role-based workflows
-- Subscription concepts
-- Admin management
-- Customer engagement
+`Customer Discovery → Vendor Management → Offers → Subscriptions → Admin Workflows`
 
 **Stack:** Next.js · MongoDB · Zustand · TanStack Query
 
 ---
 
-## 🛠️ Technology Stack
+## ☁️ My Cloud & DevOps Journey
 
-### Application Development
+I'm deliberately expanding from building applications to understanding **how software runs, scales and survives in production**.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb" />
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
-</p>
-
-### Cloud & Engineering Journey
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux,git,github" />
-</p>
-
----
-
-## ☁️ Current Growth Path
-
-I'm deliberately moving from being only an application developer toward understanding how software runs in production.
+<div align="center">
 
 ```text
-Full-Stack Engineering
-        ↓
-AWS Cloud Fundamentals
-        ↓
-Cloud Architecture
-        ↓
-Linux & Networking
-        ↓
-Docker & Containers
-        ↓
-CI/CD Automation
-        ↓
-Infrastructure & Deployment
-        ↓
-DevOps & System Reliability
+        ⚛️ Full-Stack Engineering
+                  ↓
+          ☁️ AWS Fundamentals
+                  ↓
+         🏗️ Cloud Architecture
+                  ↓
+         🌐 Linux & Networking
+                  ↓
+         🐳 Docker & Containers
+                  ↓
+          ⚙️ CI/CD Automation
+                  ↓
+      🏗️ Infrastructure & Deployment
+                  ↓
+        🚀 DevOps & Reliability
 ```
 
-My goal is not to collect certificates or technology logos.
+</div>
+
+I'm not interested in collecting technology logos.
 
 I want to understand:
 
-- Why a technology exists
-- What problem it solves
-- Its trade-offs and limitations
-- Where it fits in a real architecture
-- How to operate and debug it in production
+**Why it exists → What problem it solves → Its trade-offs → How it fits → How to debug it in production**
 
 ---
 
 ## 🧠 How I Learn
 
-I learn best by building.
+<div align="center">
+
+### 📚 Learn → 🛠️ Build → 💥 Break → 🐛 Debug → 🚀 Deploy → 📊 Monitor → 🔁 Improve
+
+</div>
+
+I prefer learning through projects because a completed tutorial does not automatically create engineering experience.
+
+My focus is to build systems that force me to understand:
+
+`Architecture · Deployment · Failures · Performance · Trade-offs`
+
+---
+
+## 🎯 Current Mission
+
+<div align="center">
+
+| Status | Goal |
+|:---:|---|
+| 🟢 | Build production-oriented SaaS applications |
+| 🟢 | Strengthen Next.js & full-stack engineering |
+| 🟢 | Complete hands-on Docker fundamentals |
+| 🟡 | Complete AWS Cloud Practitioner |
+| 🟡 | Deepen AWS architecture knowledge |
+| 🔵 | Build a production-style AWS project |
+| 🔵 | Strengthen CI/CD workflows |
+| 🔵 | Improve Linux & networking fundamentals |
+| 🔵 | Strengthen system design |
+| 🔵 | Learn monitoring & observability |
+
+</div>
+
+---
+
+## 💼 Building Webxode Technologies
+
+I'm the founder of **Webxode Technologies**, focused on building:
+
+> 🌐 Modern Websites &nbsp; • &nbsp; ⚙️ Custom Web Applications &nbsp; • &nbsp; 🛒 E-commerce Platforms &nbsp; • &nbsp; 🚀 SaaS Products
+
+### **Design. Develop. Deliver.**
+
+The long-term mission:
 
 ```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Deploy
-  ↓
-Monitor
-  ↓
-Improve
+Build great software for clients
+              ↓
+Build our own SaaS products
+              ↓
+Strengthen cloud & engineering capabilities
+              ↓
+Build scalable technology solutions
 ```
 
-A finished tutorial is not the same thing as engineering experience.
-
-My current focus is on building projects that force me to understand architecture, deployment, failure handling and real-world trade-offs.
-
----
-
-## 🎯 Current Focus
-
-- [x] Build a multi-tenant SaaS project
-- [x] Strengthen modern Next.js and full-stack development
-- [x] Complete hands-on Docker fundamentals
-- [ ] Complete AWS Cloud Practitioner
-- [ ] Deepen AWS architecture knowledge
-- [ ] Build a production-style AWS project
-- [ ] Build stronger CI/CD workflows
-- [ ] Improve Linux and networking fundamentals
-- [ ] Strengthen system design skills
-- [ ] Operate applications with monitoring and observability
-
----
-
-## 💼 Webxode Technologies
-
-I'm the founder of **Webxode Technologies**, where I work on modern websites, custom web applications, e-commerce platforms and digital products.
-
-The long-term direction is simple:
-
-**Build great software for clients. Build our own products. Grow into stronger cloud and engineering capabilities.**
-
-<p>
-  <strong>Design. Develop. Deliver.</strong>
-</p>
-
-🌐 [www.webxode.com](https://www.webxode.com/)
+🌐 **[www.webxode.com](https://www.webxode.com/)**
 
 ---
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ak220193&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Akash's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ak220193&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=ak220193&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ak220193&hide_border=true&background=00000000" />
+
+<br/>
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ak220193&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building software is easy to start. Building it well is the interesting part.</i>
-</p>
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ak220193">
+  <img src="https://img.shields.io/badge/GitHub-ak220193-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/akashsm-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Akash%20S%20M-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.webxode.com/">
+  <img src="https://img.shields.io/badge/Webxode-Design.%20Develop.%20Deliver.-111111?style=for-the-badge" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Building software is easy to start. Building it well is the interesting part.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+
+</div>
